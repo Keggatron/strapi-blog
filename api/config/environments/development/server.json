@@ -1,0 +1,10 @@
+{
+  "host": "https://projects-keggatron1.c9users.io/",
+  "port": 8080,
+  "autoReload": {
+    "enabled": true
+  },
+  "cron": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "posts": {
+    "attributes": {
+      "title": {
+        "appearance": ""
+      },
+      "date": {
+        "appearance": ""
+      },
+      "post-body": {
+        "appearance": ""
+      }
+    }
+  }
+}
